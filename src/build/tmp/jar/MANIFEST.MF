@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: API Auth & Validation Tester
+Implementation-Version: 0.1.0
+
